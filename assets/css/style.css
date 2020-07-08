@@ -148,29 +148,17 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit-all {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+.benefit-all h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+.benefit-all img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
